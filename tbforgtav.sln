@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tbforgtav", "tbforgtav\tbforgtav.csproj", "{7173C568-0126-4E2A-B06A-8930F5A6220B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7173C568-0126-4E2A-B06A-8930F5A6220B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7173C568-0126-4E2A-B06A-8930F5A6220B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7173C568-0126-4E2A-B06A-8930F5A6220B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7173C568-0126-4E2A-B06A-8930F5A6220B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4480B2D2-15A3-4FD1-82D8-2517B082F201}
+	EndGlobalSection
+EndGlobal
